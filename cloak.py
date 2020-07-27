@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 22 18:36:09 2020
+@author: mitras
+"""
 import cv2         #opencv for image processing 
 import numpy as np #numerical library for handling the image         
 
